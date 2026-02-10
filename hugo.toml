@@ -1,0 +1,11 @@
+baseURL = 'https://bxia68.github.io/'
+languageCode = 'en-us'
+title = 'Bill Xia'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true 
